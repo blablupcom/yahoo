@@ -8,3 +8,4 @@ beautifulsoup4==4.2.0
 grequests==0.2.0
 lxml==3.4.4
 cssselect==0.9.1
+python-dateutil
